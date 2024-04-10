@@ -1,0 +1,1 @@
+ mummerplot -p mummer --png mummer.mums
