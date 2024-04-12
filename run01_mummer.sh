@@ -7,4 +7,4 @@ mummer \
     db.fa \
     query.fa \
     1> mummer.mums \
-    2> run_mummer.log
+    2> run01_mummer.log
