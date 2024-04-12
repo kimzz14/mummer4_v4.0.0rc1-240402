@@ -1,5 +1,5 @@
 mummer \
-    -maxmatch \
+    -mum \
     -threads 128 \
     -l 20 \
     -b \
